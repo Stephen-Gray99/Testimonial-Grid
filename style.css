@@ -26,29 +26,6 @@ body {
 
 }
 
-.nametag {
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-.verified {
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-.bold-text {
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-.main-text {
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
 
 .danielclifford {
     grid-row: 1 / 2;
